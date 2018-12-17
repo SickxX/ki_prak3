@@ -35,5 +35,4 @@ public class SensorThingy {
 	public void getAnotherSensor() {
 		
 	}
-
 }
