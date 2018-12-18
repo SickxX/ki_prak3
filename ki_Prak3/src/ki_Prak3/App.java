@@ -8,13 +8,13 @@ public class App {
 		SensorThingy sensor = new SensorThingy();
 		//AnotherTry
 		sensor.getColorSensor();
-		move.forward(500);
-		move.rotate(900);
-		move.rotate(-2700);
-		move.forward(500);
-		sensor.getColorSensor();
-		move.rotate(1800);
-		sensor.getColorSensor();
+	//	move.forward(50);
+//		move.rotate(90);
+//		move.rotate(-270);
+	//	move.forward(500);
+	//	sensor.getColorSensor();
+	//	move.rotate(180);
+	//	sensor.getColorSensor();
 		
 		//Scheissladen
 		/**
